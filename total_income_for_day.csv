@@ -1,3 +1,4 @@
+bookings_stats;
 date;product;store;cost
 2023-02-15;product_0;store_1;10
 2023-02-15;product_1;store_1;20
